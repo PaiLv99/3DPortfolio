@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0e4ab6941ec5c4f38b2d8db3f784eddb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _powerGemImage: {fileID: 21300000, guid: 7938a43165a244456978ee642487536d, type: 3}
+  - _damageGemImage: {fileID: 21300000, guid: b180dc46c3766427eb23be3738bb2440, type: 3}
+  - _speedGemImage: {fileID: 21300000, guid: a38f62c8eee414476810b59dbdd65ad3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
